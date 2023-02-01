@@ -8,21 +8,12 @@
   --spice-main: transparent;
   --spice-misc: rgba(30, 30, 30, 0.8);
   --spice-player: rgba(30, 30, 30, 0.4);
-  --bg: url(--spice-wallpaper);
+  /* --bg: url(--spice-wallpaper); */
+  --bg: url("https://github.com/JamesIsWack/purple_Lines/blob/main/assets/background_%23111111.jpg");
 }
-/*
- Set the wallpaper to the one matching your color scheme
- Source: https://wallpapercave.com/wp/wp5003466.jpg
- Purple: https://github.com/Motschen/Retroblur/blob/main/assets/background_purple.jpg?raw=true
- Red: https://github.com/Motschehttps://n/Retroblur/blob/main/assets/background_red.jpg?raw=true
- Green: github.com/Motschen/Retroblur/blob/main/assets/background_green.jpg?raw=true
- Yellow: https://github.com/Motschen/Retroblur/blob/main/assets/background_yellow.jpg?raw=true
- Blue: https://github.com/Motschen/Retroblur/blob/main/assets/background_blue.jpg?raw=true
- Beach (Blue): https://wallpapercave.com/wp/wp5922621.jpg
- Forest (Green): https://i.imgur.com/hnpaDeR.jpg
- */
+
 body {
-    background-image: url("https://github.com/JamesIsWack/lines_Purple/blob/main/assets/background_blue.jpg?raw=true") !important;
+    background-image: url("https://github.com/JamesIsWack/purple_Lines/blob/main/assets/background_%23111111.jpg") !important;
     background-repeat: no-repeat;
     background-size: 100%;
 }
